@@ -1,3 +1,5 @@
+-- Made By @Sliganyth
+
 -- Credits To @Cypheriel
 
 local monitor = peripheral.find("monitor")

@@ -4,5 +4,8 @@
         "term",
         "rs",
         "sleep"
+    ],
+    
+    "Lua.diagnostics.disable": [
     ]
 }
