@@ -18,9 +18,9 @@ print(message)
 while true do
     local event, side, x, y = os.pullEvent("monitor_touch")
     if (18 < x and x < 21 and y == 9) then
-        rs.setOutput("bottom" , true)
+        rs.setOutput("back" , true)
         sleep(0.05) -- sleeps for 1 tick(pulse 1 tick)
-        rs.setOutput("bottom" , false)
+        rs.setOutput("back" , false)
     else
         print("(" .. x .. ", " .. y .. ")")
     end
