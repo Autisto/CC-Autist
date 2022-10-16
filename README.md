@@ -24,13 +24,15 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][Credits]][https://github.com/Autisto/CC-Autist/blob/main/CONTRIBUTORS.md]
+[![Creative Commons Zero v1.0 Universal License][Creative Commons Legal Code]][https://github.com/Autisto/CC-Autist/blob/main/LICENSE.md]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://avatars.githubusercontent.com/u/82674347?s=200&v=4">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -83,9 +85,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Autisto/CC-Autist)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+`Sliganyth`, `CC-Autist`, `gmail.com`, `Sliganyth@gmail.com`, `Elora`, `This is All Of The Programs Of Sliganyth`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,20 +149,11 @@ Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - Sliganyth@gmail.com
+Sliganyth - [@Gmail](Sliganyth@gmail.com) - Sliganyth@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/Autisto/CC-Autist)
+Project Link: [https://github.com/Autisto/CC-Autist](https://github.com/Autisto/CC-Autist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
