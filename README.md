@@ -14,16 +14,6 @@
 
 <h3 align="center">Elora</h3>
 E = Executable L = Local O = Open R = Repository A = Archive
-  <p align="center">
-    
-    <br />
-    <a href="https://github.com/Autisto/CC-Autist/wiki"><strong>Explore the wiki WIP »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Sliganyth">Maker</a>
-    ·
-    <a href="https://github.com/Autisto/CC-Autist/issues">Issues</a>
-  </p>
 </div>
 
 
