@@ -30,7 +30,11 @@
         "printError",
         "write",
         "read",
-        "sleep"
+        "sleep",
+        "cell",
+        "energy",
+        "max",
+        "program"
     ],
     "Lua.runtime.builtin": {
         "bit32": "enable",
