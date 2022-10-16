@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Autisto/Elora">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Autisto/Elora/blob/main/Images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Elora</h3>
@@ -140,6 +140,6 @@ Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elor
 [issues-url]: https://github.com/Autisto/Elora/issues
 [license-shield]: https://img.shields.io/github/license/Autisto/Elora.svg?style=for-the-badge
 [license-url]: https://github.com/Autisto/Elora/blob/main/LICENSE.md
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://raw.githubusercontent.com/Autisto/Elora/main/Images/screenshot.png
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
