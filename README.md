@@ -58,7 +58,7 @@ E = Executable L = Local O = Open R = Repository A = Archive
 
 ### Built With
 
-* [![Lua][Lua]][https://www.lua.org]
+* [![Lua][Lua]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +103,7 @@ See the [open issues](https://github.com/Autisto/Elora/issues) for a full list o
 <!-- LICENSE -->
 ## License
 
-Distributed under the Creative Commons Zero v1.0 Universal License. See `LICENSE.md` for more information.
+Distributed under MIT License See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,11 +125,11 @@ Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elor
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Autisto/Elora.svg?style=for-the-badge
-[contributors-url]: https://github.com/Autisto/Elora/blob/main/CONTRIBUTORS.md
+[contributors-url]: https://github.com/Autisto/Elora/blob/main/CONTRIBUTORS.txt
 [issues-shield]: https://img.shields.io/github/issues/Autisto/Elora.svg?style=for-the-badge
 [issues-url]: https://github.com/Autisto/Elora/issues
 [license-shield]: https://img.shields.io/github/license/Autisto/Elora.svg?style=for-the-badge
-[license-url]: https://github.com/Autisto/Elora/blob/main/LICENSE.md
+[license-url]: https://github.com/Autisto/Elora/blob/main/LICENSE.txt
 [product-screenshot]: https://raw.githubusercontent.com/Autisto/Elora/main/Images/screenshot.png
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
