@@ -111,7 +111,7 @@ Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/b
 
 ## Contact
 
-Sliganyth - [@Gmail](Sliganyth@gmail.com) - Sliganyth@gmail.com
+Sliganyth - [@Gmail](Autistjes@gmail.com) - Autistjes@gmail.com
 
 Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elora)
 
