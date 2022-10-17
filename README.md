@@ -31,7 +31,7 @@ CC Version Of Elora
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">Contributors</a></li>
+    <li><a href="#Contributors">Contributors</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -126,6 +126,6 @@ Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elor
 [issues-url]: https://github.com/Autisto/CC-Elora/issues
 [license-shield]: https://img.shields.io/github/license/Autisto/CC-Elora.svg?style=for-the-badge
 [license-url]: https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md
-[product-screenshot]: https://raw.githubusercontent.com/Autisto/Elora/main/Images/screenshot.png
+[product-screenshot]: https://raw.githubusercontent.com/Autisto/CC-Elora/main/Images/screenshot.png
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
