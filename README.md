@@ -2,9 +2,9 @@
 
 [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield](https://github.com/Autisto/CC-Elora/issues)]
-[![MIT License][license-shield](https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md)]
+[![Contributors][contributors-shield]][https://github.com/Autisto/CC-Elora/blob/main/CONTRIBUTORS.md]
+[![Issues][issues-shield]][https://github.com/Autisto/CC-Elora/issues]
+[![MIT License][license-shield]][https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md]
 
 <br />
 <div align="center">
@@ -44,7 +44,7 @@ CC Version Of Elora
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot](https://github.com/Autisto/CC-Elora)]
+[![Product Name Screen Shot][product-screenshot]]
 
 `Maker`, `Project-Title`, `Gmail`, `Description`
 
@@ -56,7 +56,7 @@ CC Version Of Elora
 
 ### Built With
 
-* [![Lua][Lua](https://www.lua.org)]
+* [![React][React.js]][lua.org]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ CC Version Of Elora
 - [ ] Elora
     - [ ] Talking Back
 
-See the [open issues](https://github.com/Autisto/Elora/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Autisto/CC-Elora/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +105,7 @@ All Of The Contributors Are Found In `CONTRIBUTORS.md`
 
 ## License
 
-Distributed under MIT License See `LICENSE.md` for more information.
+Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md" target="_blank">License.md!</a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
