@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 [![Contributors][contributors-shield]]
 [![Issues][issues-shield]]
 [![MIT License][license-shield]]
@@ -118,7 +120,7 @@ Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elor
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
