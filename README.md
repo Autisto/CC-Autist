@@ -15,7 +15,7 @@
   </a>
 
 <h3 align="center">Elora</h3>
-E = Executive L = Local O = Open R = Repository A = Assistance 
+E = Executive L = Local O = Open R = Repository A = Assistant
 </div>
 
 
