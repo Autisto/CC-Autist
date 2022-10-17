@@ -1,26 +1,21 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]]
-[![Issues][issues-shield]]
-[![MIT License][license-shield]]
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 
+[![Contributors][contributors-shield](https://github.com/Autisto/CC-Elora/blob/main/CONTRIBUTORS.md)]
+[![Issues][issues-shield](https://github.com/Autisto/CC-Elora/issues)]
+[![MIT License][license-shield](https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md)]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Autisto/Elora">
-    <img src="https://github.com/Autisto/Elora/blob/main/Images/logo.jpg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Autisto/CC-Elora">
+    <img src="https://github.com/Autisto/CC-Elora/blob/main/Images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Elora</h3>
-E = Executive L = Local O = Open R = Repository A = Assistant
+<h3 align="center">CC-Elora</h3>
+CC Version Of Elora
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of The Archive</summary>
   <ol>
@@ -38,6 +33,7 @@ E = Executive L = Local O = Open R = Repository A = Assistant
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">Contributors</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -48,11 +44,11 @@ E = Executive L = Local O = Open R = Repository A = Assistant
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Autisto/Elora)
+[![Product Name Screen Shot][product-screenshot](https://github.com/Autisto/CC-Elora)]
 
 `Maker`, `Project-Title`, `Gmail`, `Description`
 
-`Sliganyth`, `Elora`, `Sliganyth@gmail.com`, `This is All Of The Programs Of Sliganyth`
+`Sliganyth`, `CC-Elora`, `autistjes@gmail.com`, `CC Version Of Elora`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,7 +56,7 @@ E = Executive L = Local O = Open R = Repository A = Assistant
 
 ### Built With
 
-* [![Lua][Lua]]
+* [![Lua][Lua](https://www.lua.org)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,17 +97,20 @@ See the [open issues](https://github.com/Autisto/Elora/issues) for a full list o
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Contributors
 
-<!-- LICENSE -->
+All Of The Contributors Are Found In `CONTRIBUTORS.md`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## License
 
-Distributed under MIT License See `LICENSE.txt` for more information.
+Distributed under MIT License See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- CONTACT -->
 ## Contact
 
 Sliganyth - [@Gmail](Sliganyth@gmail.com) - Sliganyth@gmail.com
@@ -123,15 +122,12 @@ Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elor
 
 
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Autisto/Elora.svg?style=for-the-badge
-[contributors-url]: https://github.com/Autisto/Elora/blob/main/CONTRIBUTORS.txt
-[issues-shield]: https://img.shields.io/github/issues/Autisto/Elora.svg?style=for-the-badge
-[issues-url]: https://github.com/Autisto/Elora/issues
-[license-shield]: https://img.shields.io/github/license/Autisto/Elora.svg?style=for-the-badge
-[license-url]: https://github.com/Autisto/Elora/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Autisto/CC-Elora.svg?style=for-the-badge
+[contributors-url]: https://github.com/Autisto/CC-Elora/blob/main/CONTRIBUTORS.md
+[issues-shield]: https://img.shields.io/github/issues/Autisto/CC-Elora.svg?style=for-the-badge
+[issues-url]: https://github.com/Autisto/CC-Elora/issues
+[license-shield]: https://img.shields.io/github/license/Autisto/CC-Elora.svg?style=for-the-badge
+[license-url]: https://github.com/Autisto/Elora/blob/main/LICENSE.md
 [product-screenshot]: https://raw.githubusercontent.com/Autisto/Elora/main/Images/screenshot.png
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
