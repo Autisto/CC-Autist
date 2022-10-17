@@ -91,7 +91,7 @@ CC Version Of Elora
 - [ ] Elora
     - [ ] Talking Back
 
-See the [open issues](https://github.com/Autisto/CC-Elora/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/orgs/Autisto/projects/3) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
