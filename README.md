@@ -125,7 +125,7 @@ Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elor
 [issues-shield]: https://img.shields.io/github/issues/Autisto/CC-Elora.svg?style=for-the-badge
 [issues-url]: https://github.com/Autisto/CC-Elora/issues
 [license-shield]: https://img.shields.io/github/license/Autisto/CC-Elora.svg?style=for-the-badge
-[license-url]: https://github.com/Autisto/Elora/blob/main/LICENSE.md
+[license-url]: https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md
 [product-screenshot]: https://raw.githubusercontent.com/Autisto/Elora/main/Images/screenshot.png
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
