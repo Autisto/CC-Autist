@@ -2,9 +2,9 @@
 
 [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 
-[![Contributors][contributors-shield]][https://github.com/Autisto/CC-Elora/blob/main/CONTRIBUTORS.md]
-[![Issues][issues-shield]][https://github.com/Autisto/CC-Elora/issues]
-[![MIT License][license-shield]][https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md]
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <br />
 <div align="center">
