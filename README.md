@@ -1,14 +1,12 @@
 <a name="readme-top"></a>
 
-[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 <br />
 <div align="center">
-  <a href="https://github.com/Autisto/CC-Elora">
+  <a href="https://github.com/Autisto">
     <img src="https://github.com/Autisto/CC-Elora/blob/main/Images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -56,7 +54,7 @@ CC Version Of Elora
 
 ### Built With
 
-* [![React][React.js]][lua.org]
+* [![Lua][lua]][lua-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,13 +97,13 @@ See the [open issues](https://github.com/Autisto/CC-Elora/issues) for a full lis
 
 ## Contributors
 
-All Of The Contributors Are Found In `CONTRIBUTORS.md`
+All Of The Contributors Are Found In <a href="https://github.com/Autisto/CC-Elora/blob/main/CONTRIBUTORS.md" target="_blank">Contributors.md</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
-Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md" target="_blank">License.md!</a> for more information.
+Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md" target="_blank">License.md</a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
