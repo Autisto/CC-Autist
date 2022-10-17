@@ -15,7 +15,7 @@
   </a>
 
 <h3 align="center">Elora</h3>
-E = Executable L = Local O = Open R = Repository A = Archive
+E = Executive L = Local O = Open R = Repository A = Assistance 
 </div>
 
 
