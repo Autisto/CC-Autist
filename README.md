@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
@@ -31,13 +30,10 @@ CC Version Of Elora
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -48,17 +44,9 @@ CC Version Of Elora
 
 `Sliganyth`, `CC-Elora`, `autistjes@gmail.com`, `CC Version Of Elora`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [![Lua][lua]][lua-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -76,9 +64,6 @@ CC Version Of Elora
 
 1.CreateMonitor = pastebin get PznkAxTE startup
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -93,21 +78,9 @@ CC Version Of Elora
 
 See the [open issues](https://github.com/orgs/Autisto/projects/3) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contributors
-
-All Of The Contributors Are Found In <a href="https://github.com/Autisto/CC-Elora/blob/main/CONTRIBUTORS.md" target="_blank">Contributors.md</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## License
 
 Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md" target="_blank">License.md</a> for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## Contact
 
@@ -118,10 +91,6 @@ Project Link: [https://github.com/Autisto/CC-Elora](https://github.com/Autisto/C
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/Autisto/CC-Elora.svg?style=for-the-badge
-[contributors-url]: https://github.com/Autisto/CC-Elora/blob/main/CONTRIBUTORS.md
 [issues-shield]: https://img.shields.io/github/issues/Autisto/CC-Elora.svg?style=for-the-badge
 [issues-url]: https://github.com/Autisto/CC-Elora/issues
 [license-shield]: https://img.shields.io/github/license/Autisto/CC-Elora.svg?style=for-the-badge
