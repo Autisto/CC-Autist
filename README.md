@@ -80,7 +80,7 @@ See the [open issues](https://github.com/orgs/Autisto/projects/3) for a full lis
 
 ## License
 
-Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md" target="_blank">License.md</a> for more information.
+Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/blob/main/LICENSE.md" target="_blank">License</a> for more information.
 
 ## Contact
 
