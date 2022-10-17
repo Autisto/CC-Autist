@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Autisto">
-    <img src="https://github.com/Autisto/CC-Elora/blob/main/Images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Autisto/CC-Elora/blob/main/Images/logo.jpg" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">CC-Elora</h3>
@@ -31,7 +31,7 @@ CC Version Of Elora
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#Contributors">Contributors</a></li>
+    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -113,7 +113,7 @@ Distributed under MIT License See <a href="https://github.com/Autisto/CC-Elora/b
 
 Sliganyth - [@Gmail](Autistjes@gmail.com) - Autistjes@gmail.com
 
-Project Link: [https://github.com/Autisto/Elora](https://github.com/Autisto/Elora)
+Project Link: [https://github.com/Autisto/CC-Elora](https://github.com/Autisto/CC-Elora)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
