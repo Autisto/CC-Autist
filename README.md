@@ -1,6 +1,6 @@
-[![Contributors][contributors-shield]][https://github.com/Autisto/CC-Autist/blob/main/CONTRIBUTORS.md]
-[![Issues][issues-shield]][https://github.com/Autisto/CC-Autist/issues]
-[![Creative Commons Zero v1.0 Universal License][license-shield]][https://github.com/Autisto/CC-Autist/blob/main/LICENSE.md]
+[![Contributors][contributors-shield]]
+[![Issues][issues-shield]]
+[![MIT License][license-shield]]
 
 
 
