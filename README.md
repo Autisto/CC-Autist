@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Autisto">
-    <img src="https://github.com/Autisto/CC-Elora/blob/main/Images/logo.jpg" alt="Logo" width="120" height="120">
+    <img src="https://github.com/Autisto/CC-Elora/blob/main/Images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">CC-Elora</h3>
